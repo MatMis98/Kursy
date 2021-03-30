@@ -1,5 +1,5 @@
 # Kursy
-Aplikacja licencjat
+Aplikacja do zarządzania kursami kierowców i sporządzania raportów
 
 Aplikacja umożliwia zarządzaniem kursami kierowców. Podstawowe funckcje to dodawanie, usuwanie i modyfikowanie istniejących danych dla każdej encji bazy danych. Generuje również
 cztery predefiniowane raporty oraz umożliwia użytkownikowi wygenerowanie własnego raportu na podstawie wprowadzonego zapytania do bazy danych SQL Server. 
